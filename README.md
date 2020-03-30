@@ -1,1 +1,2 @@
-# A-Smart-Way-to-Design-Future-Smartphones
+# A Smart Way to Design Future Smartphones
+
